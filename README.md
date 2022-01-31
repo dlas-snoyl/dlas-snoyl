@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dlas-snoyl
-- 👀 I’m interested in AI, Data Science, and Game Development
-- 🌱 I’m currently learning Python, C++, and C#.
+- 👀 I’m interested in Game Development and general Software Development.
+- 🌱 I’m currently learning Python, C++, and GoLang.
 <!--- 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me dallasdlyons@gmail.com
 
